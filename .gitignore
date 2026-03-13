@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+venv311/
+
+# secrets
+.streamlit/secrets.toml
+.env
+
+# local app state
+data/index/
+data/ui_settings.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editors
+.idea/
+.vscode/
