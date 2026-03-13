@@ -102,4 +102,5 @@ The app reads the OpenAI key through Streamlit secrets:
 st.secrets["OPENAI_API_KEY"]
 ```
 
-Do not commit real secrets to the repository.
+## Screenshots
+
