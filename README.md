@@ -105,7 +105,6 @@ st.secrets["OPENAI_API_KEY"]
 ## Demo
 
 ![Demo 1](assets/ui-1.jpg)
-![Demo 2](assets/ui-2.jpg)
 ![Demo 3](assets/ui-3.jpg)
 ![Demo 4](assets/ui-4.jpg)
 
